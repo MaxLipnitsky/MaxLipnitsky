@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MaxLipnitsky
+- 👀 I’m interested in Mobile/Android/Kotlin, Flutter||KMM, Declarative Ui -> Jetpack Compose
+- 🌱 I’m currently learning Android best practices & Algorithms 
+- 💞️ I’m looking to collaborate on AndroidX/Flutter
+- 📫 How to reach me -> max.lipnitsky@gmail.com
